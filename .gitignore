@@ -1,1 +1,15 @@
+*
+
+!*/
+
+!*.c
+!*.h
+
+!Makefile
+!README.md
+!LICENSE
+!Doxyfile
+!*.txt
+!*.cfg
+!*.json
 .vscode
